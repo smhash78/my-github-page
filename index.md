@@ -14,8 +14,7 @@ I'm also adding my old repositories to github over time.
 <br/><br/>
 
 ## Contact and Support
-My Linkedin:
-https://www.linkedin.com/in/smhashemi1/
+[My Linkedin](https://www.linkedin.com/in/smhashemi1/)
 
 <!-- ## Welcome to GitHub Pages
 
