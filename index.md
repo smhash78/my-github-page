@@ -13,6 +13,11 @@ I'm also adding my old repositories to github over time.
 - AI Libraries (Pandas, NumPy, Matplotlib, SciKit Learn)
 <br/><br/>
 
+## Languages
+- Persian (Native)
+- English (Advanced)
+<br/><br/>
+
 ## Contact and Support
 [My Linkedin](https://www.linkedin.com/in/smhashemi1/)
 
