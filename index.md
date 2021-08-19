@@ -1,3 +1,21 @@
+## About me
+I'm a Computer Engineering student, looking for new things to learn 🌱
+Currently I'm concentrating on learning subjects in artificial intelligence.
+I'm also adding my old repositories to github over time.
+
+## Skills
+- Algorithms and Problem Solving
+- Programming (Python, Java, C)
+- Mobile Programming (Android, XML, Gradle)
+- Database Design
+- Database Management (PostgreSQL)
+- AI Libraries (Pandas, NumPy, Matplotlib, SciKit Learn)
+
+
+## Contact and Support
+My Linkedin:
+https://www.linkedin.com/in/smhashemi1/
+
 <!-- ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/smhash78/my-github-page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
