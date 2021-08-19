@@ -3,6 +3,7 @@ I'm a Computer Engineering student, looking for new things to learn 🌱
 Currently I'm concentrating on learning subjects in artificial intelligence.
 I'm also adding my old repositories to github over time.
 
+<br/><br/>
 ## Skills
 - Algorithms and Problem Solving
 - Programming (Python, Java, C)
