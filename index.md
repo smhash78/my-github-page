@@ -20,8 +20,8 @@ Currently I'm concentrating on learning subjects about artificial intelligence.
 <br/><br/>
 
 ## Contact and Support
-- [My Email](mailto:smhash11@gmail.com)
-- [My Linkedin](https://www.linkedin.com/in/smhashemi1/)
+- [Email](mailto:smhash11@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/smhashemi1/)
 
 <!-- ## Welcome to GitHub Pages
 
