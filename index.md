@@ -22,7 +22,7 @@ Currently I'm concentrating on learning subjects about artificial intelligence.
 ## Contact and Support
 - [Email](mailto:smhash11@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/smhashemi1/)
-- [My Resume (PDF)](https://raw.githubusercontent.com/smhash78/my-github-page/gh-pages/favicon.ico)
+- [My Resume (PDF)]()
 
 <!-- ## Welcome to GitHub Pages
 
